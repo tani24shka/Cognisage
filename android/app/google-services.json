@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861277541206",
+    "project_id": "fir-auth-61baa",
+    "storage_bucket": "fir-auth-61baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861277541206:android:86a544a52c8f8523bd3cf7",
+        "android_client_info": {
+          "package_name": "com.example.werocks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOPnGDPTlEdpKxg3lp1fHbOSIjZqsS9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
